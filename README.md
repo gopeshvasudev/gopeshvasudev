@@ -17,5 +17,5 @@ I'm Gopesh Vasudev, a full-stack web developer and graphic designer based in Del
 Feel free to reach out to me via email or connect with me on LinkedIn or Twitter.
 
 - **Email**: gopeshpalvasudev@gmail.com
-- **LinkedIn**: [linkedin.com/in/gopeshvasudev](https://www.linkedin.com/in/gopeshvasudev/)
-- **Twitter**: [@gopeshvasudev](https://twitter.com/gopeshvasudev)
+- **LinkedIn**: [gopeshvasudev](https://www.linkedin.com/in/gopesh-vasudev-16a5622a7/)
+- **Twitter**: [gopeshvasudev](https://twitter.com/gopeshvasudev)
