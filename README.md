@@ -1,16 +1,19 @@
-### Hi there 👋
+# Welcome to My GitHub Profile!
 
-<!--
-**gopeshvasudev/gopeshvasudev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Gopesh Vasudev, a full-stack web developer and graphic designer based in Delhi, India. I'm passionate about creating beautiful and functional web applications.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Duo Studio
+[Duo Studio](https://gopeshvasudev.github.io/duostudio/) - A modern animated landing page showcasing creative offerings.
+
+### Skydecor
+[Skydecor](https://skydecor.vercel.app/) - A visually stunning landing page for the fictitious company Skydecor, specializing in modern interior design solutions.
+
+## Contact
+
+Feel free to reach out to me via email or connect with me on LinkedIn.
+
+- **Email**: gopeshpalvasudev@gmail.com
+- **LinkedIn**: [linkedin.com/in/gopeshvasudev](https://www.linkedin.com/in/gopeshvasudev/)
+- **Twitter**: [@gopeshvasudev](https://twitter.com/gopeshvasudev)
