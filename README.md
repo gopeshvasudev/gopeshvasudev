@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/gopeshvasudev" target="blank"><img src="https://img.shields.io/twitter/follow/gopeshvasudev?logo=twitter&style=for-the-badge" alt="gopeshvasudev" /></a> </p>
 
-- 🔭 I’m currently working on **Youtube clone**
+- 🔭 I’m currently working on **Flown - A connection making application**
 
-- 🌱 I’m currently learning **Next js**
+- 🌱 I’m currently learning **micro services**
 
 - 📫 How to reach me **gopeshpalvasudev@gmail.com**
 
